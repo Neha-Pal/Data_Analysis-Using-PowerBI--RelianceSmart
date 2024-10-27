@@ -6,6 +6,8 @@ This Power BI dashboard provides a detailed analysis of **Reliance Smart's** sal
 - **Revenue** and **Profit** trends compared to the previous month.
 - **Product Brand** sales and profitability.
 - **Regional** and **State-wise** performance.
+  ## Dashboard Preview
+![BlinKIT Dashboard](https://github.com/Neha-Pal/Data_Analysis-Using-PowerBI--RelianceSmart/blob/main/dashboard.jpg)
 
 ## Key Metrics
 
